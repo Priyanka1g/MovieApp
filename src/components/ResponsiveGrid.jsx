@@ -1,4 +1,3 @@
-
 import * as React from 'react';
 import { experimentalStyled as styled } from '@mui/material/styles';
 import Box from '@mui/material/Box';
@@ -25,22 +24,3 @@ export default function ResponsiveGrid(props) {
   );
 }
 
-
-// import React from "react";
-
-// function MoviesList(props) {
-//   return (
-//     <ul>
-//       {props.movies.map((movie) => (
-//         <MediaCard
-//           name={movie.name}
-//           posterPath={movie.posterPath}
-//           desc={movie.desc}
-//           backdropPath={movie.backdropPath}
-//         />
-//       ))}
-//     </ul>
-//   );
-// }
-
-// export default MoviesList;
