@@ -32,19 +32,3 @@ function App() {
 }
 
 export default App;
-
-{
-  /* <BrowserRouter>
-<Switch>
-  <Route path="/manatee">
-    <Manatee />
-  </Route>
-  <Route path="/narwhal">
-    <Narwhal />
-  </Route>
-  <Route path="/whale">
-    <Whale />
-  </Route>
-</Switch>
-</BrowserRouter> */
-}
